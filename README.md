@@ -1,2 +1,2 @@
 # hydershaik.github.io
-About Profile
+The personal website/portfolio of Hyder Shaik. Build progress in Angular.
